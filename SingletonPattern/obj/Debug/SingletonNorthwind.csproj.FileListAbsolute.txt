@@ -1,0 +1,12 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\SingletonNorthwind.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\SingletonNorthwind.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\SingletonNorthwind.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\obj\Debug\SingletonNorthwind.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\obj\Debug\SingletonNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\obj\Debug\SingletonNorthwind.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\obj\Debug\SingletonNorthwind.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\SingletonNorthwind\obj\Debug\SingletonNorthwind.pdb

@@ -1,0 +1,14 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\21.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DesignPatterns\25.04\DesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
