@@ -1,0 +1,12 @@
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Huawei\source\repos\MediatrPattern\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
